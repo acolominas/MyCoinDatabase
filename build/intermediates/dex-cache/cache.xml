@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_7c9600c721b7f0569f7ed35186586c2ad35ab66d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="62b57c799d890d475105dce0720955dc09e7d584">
+        <dex dex="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ae355fc3610d024c66896d4dc67903261336aa3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebas\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_8e87616a0bd4f708b6cda3e236c7279fe90b2dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0932b788ccb546cce87a286756f3ad81bd8cb154\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebas\.android\build-cache\829e07f8cd8b146b0ec9d7464d1c1a76ba7c106e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a6a5ad3a73e1a842d407bbe35e47537738689f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebas\.android\build-cache\1acb831e0d2ce2583ceaffb0a36bd74c45c9efb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c64265d2051d8fbe0ca4146fa7a2fcca8db34c1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebas\.android\build-cache\9c63ba9d74825cf7d4e386b1d487fdac01f4eb48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b0bcfb4565cb3b1c1979ef750c93363c04c110a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebas\.android\build-cache\829e07f8cd8b146b0ec9d7464d1c1a76ba7c106e\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Sebas\AndroidStudioProjects\MyCoinDatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_30a1206c4e6cbbf77797b2bac57b22510566c063\classes.dex" />
+    </item>
+
+</items>
